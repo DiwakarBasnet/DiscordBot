@@ -19,4 +19,4 @@ async def on_message(message):
     if message.content == 'Yo':
         await message.channel.send('Sup bitch')
 
-client.run('ODkxODY4OTE5NzM5MDY0MzQz.YVEnqA.HhGUW2-7Z3tC6eVQmTDhV1MjbGs')
+client.run('Discord Token')
