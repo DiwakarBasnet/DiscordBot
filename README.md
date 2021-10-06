@@ -1,6 +1,6 @@
 # Project Setup
 
-Follow the steps below to setup the project on your environment.
+Follow the steps below to setup the project on environment.
 
 ## Local Development
 
